@@ -1,0 +1,23 @@
+# Binaries
+/build
+/.gradle
+/.idea
+*.iml
+
+# Logs
+*.log
+
+# Git
+.git
+.gitignore
+
+# OS files
+.DS_Store
+
+# CI/CD
+.github
+.vscode
+
+# Docker
+Dockerfile
+docker-compose.yml
